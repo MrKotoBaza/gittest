@@ -1,0 +1,7 @@
+Tkinter
+Hashlib
+Uuid
+Mathplotlib
+PyInstaller
++Tensorflow, open-cvpython, dlib, keras, pywin32, pypiwin32 и др
+

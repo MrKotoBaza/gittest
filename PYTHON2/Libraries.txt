@@ -1,0 +1,13 @@
+pyspeedtest
+	st = pyspeedtest.SpeedTest()
+	st.download()
+	st.upload()
+	st.ping()
+
+moviepy
+wikipedia
+	set_lang() смена языка
+	.summary("слово") поиск по словам
+
+termcolor2
+prettytable

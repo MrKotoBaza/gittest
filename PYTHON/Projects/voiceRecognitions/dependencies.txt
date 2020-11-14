@@ -1,0 +1,5 @@
+PyAudio (скачивается с отдельного сайта, смотреть у Хауди ХО)
+pyttsx3
+pywin
+pywin32
+search_recognition

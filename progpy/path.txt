@@ -1,0 +1,1 @@
+{'name': 'kotobaza', 'login': 'kotobaza', 'password': '5fd654bdf48204c36f34e1e8408dda9516ba0bdafd109895eca45825f0d52351:642946f9230b4338a95b85b65c4d5aba', 'useLevel': 'root'}

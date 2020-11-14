@@ -1,0 +1,5 @@
+x = int(input())
+h = int(input())
+m = int(input())
+print(h+x//60 if x%60+m <60 else h+x//60+1)
+print(x%60+m if x%60+m<60 else x%60+m-60)
