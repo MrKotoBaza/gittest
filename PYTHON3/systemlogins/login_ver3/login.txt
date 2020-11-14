@@ -1,0 +1,3 @@
+{'login': 'baza_', 'password': 'ppp', 'name': 'kotobaza'}
+{'login': 'kio', 'password': 'kio', 'name': 'kio'}
+
